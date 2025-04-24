@@ -26,3 +26,6 @@ go.work.sum
 
 # DBML Files
 *.dbml
+
+# Jetbrains IDE
+.idea/
